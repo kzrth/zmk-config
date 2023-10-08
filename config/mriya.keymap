@@ -31,7 +31,7 @@
   &kp GRAVE  &kp SQT             &kp COMMA       &kp PERIOD     &kp P             &kp Y        &kp F      &kp G              &kp C          &kp R            &kp L                &kp LBKT
   &kp LCTRL  &mt LEFT_COMMAND A  &mt LEFT_ALT O  &mt LCTRL E    &mt LEFT_SHIFT U  &kp I        &kp D      &mt RIGHT_SHIFT H  &mt RCTRL T    &mt RIGHT_ALT N  &mt RIGHT_COMMAND S  &mt RCTRL SQT
   &kp LALT   &kp SEMICOLON       &kp Q           &kp J          &kp K             &kp X        &kp B      &kp M              &kp W          &kp V            &kp Z                &mt RALT BSLH
-                                 &tog 5          &mt LCTRL ESC  &lt 2 SPACE       &lt 2 TAB    &lt 4 RET  &lt 1 BACKSPACE    &mt RCTRL DEL  &kp RG(SPACE)
+                                 &tog 5          &mt LCTRL ESC  &lt 2 SPACE       &lt 3 TAB    &lt 4 RET  &lt 1 BACKSPACE    &mt RCTRL DEL  &kp RG(SPACE)
             >;
         };
 
